@@ -10,7 +10,7 @@ Merupakan aplikasi dashboard management mengelola villa berikut teknologi yang s
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-
+****
 # Halaman List
 ![Preview-1](public/images/screenshoot-website/preview-1.png)
 
@@ -48,7 +48,7 @@ Create database in your server and run database migration
 php artisan migrate
 ```
 
-# Compile
+# package npm
 You can add new module  app.js in `resources/app.js` and also to compile to use.
 ```
 npm run dev
